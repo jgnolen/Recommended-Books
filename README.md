@@ -34,7 +34,7 @@ All are great books, but my favorites are marked in **bold**.
 
 - Red Team — Micah Zenko (bridge between cyber + security strategy)
 
-#### Military / Intelligence / Security History
+#### Military / Intelligence / National Security
 
 - **Team of Teams — Stanley McChrystal**
 
